@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\Documents\GitHub\hello-gimbal-android-master\app\libs\gimbal.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d7ac4b59b017b30334e363675e38a64c0cbbbef6">
+        <dex dex="C:\Users\Administrator\Documents\GitHub\hello-gimbal-android-master\app\build\intermediates\pre-dexed\debug\gimbal-0446b76869bfef3d533c07e0273bb4ed231678f0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Documents\GitHub\hello-gimbal-android-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Administrator\Documents\GitHub\hello-gimbal-android-master\app\build\intermediates\pre-dexed\debug\classes-9cfcba16426ede7d114f3456488c5e83c3f01e13.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Documents\GitHub\hello-gimbal-android-master\app\libs\spring-android-core-1.0.1.RELEASE.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e68f0e8e4b636ee30c4de58953be38d9b72a5e3b">
+        <dex dex="C:\Users\Administrator\Documents\GitHub\hello-gimbal-android-master\app\build\intermediates\pre-dexed\debug\spring-android-core-1.0.1.RELEASE-efce04117f1a2fc05ef9eba72d030e4a579d03de.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Documents\GitHub\hello-gimbal-android-master\app\libs\gimbal-dev-logging.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44cd8bfb75e931f3a58b15f9ae51603a33fc116c">
+        <dex dex="C:\Users\Administrator\Documents\GitHub\hello-gimbal-android-master\app\build\intermediates\pre-dexed\debug\gimbal-dev-logging-b7cdeb64488a206f21a540045233f1d48e83d68d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Documents\GitHub\hello-gimbal-android-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Administrator\Documents\GitHub\hello-gimbal-android-master\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-fa4a627c809c953f34e2c486a47e0853ab7c2bca.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Administrator\Documents\GitHub\hello-gimbal-android-master\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-b02d5f0bbb77641e1684f83d7fa0b9acc540cbd4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Documents\GitHub\hello-gimbal-android-master\app\libs\spring-android-rest-template-1.0.1.RELEASE.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e132d929bd181941f79b0d63edafb8a86ae6fd33">
+        <dex dex="C:\Users\Administrator\Documents\GitHub\hello-gimbal-android-master\app\build\intermediates\pre-dexed\debug\spring-android-rest-template-1.0.1.RELEASE-2fd628e13489a1094f1d0bf6efaa0bac2f198cc1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Documents\GitHub\hello-gimbal-android-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\Administrator\Documents\GitHub\hello-gimbal-android-master\app\build\intermediates\pre-dexed\debug\classes-f5e8cab97379f86fb1f08c2ebfdd88e0675b7883.jar" />
+    </item>
+
+</items>
