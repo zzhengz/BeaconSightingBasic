@@ -2,11 +2,11 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Administrator\Documents\GitHub\hello-gimbal-android-master\app\libs\gimbal.jar"
+        jar="C:\Users\Administrator\Documents\GitHub\BeaconSightingBasic\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="d7ac4b59b017b30334e363675e38a64c0cbbbef6">
-        <dex dex="C:\Users\Administrator\Documents\GitHub\hello-gimbal-android-master\app\build\intermediates\pre-dexed\debug\gimbal-0446b76869bfef3d533c07e0273bb4ed231678f0.jar" />
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Administrator\Documents\GitHub\BeaconSightingBasic\app\build\intermediates\pre-dexed\debug\classes-1a431bcc445f2b8b9f72ae8b04d74aef1348bf9e.jar" />
     </item>
     <item
         jar="C:\Users\Administrator\Documents\GitHub\hello-gimbal-android-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
@@ -23,11 +23,18 @@
         <dex dex="C:\Users\Administrator\Documents\GitHub\hello-gimbal-android-master\app\build\intermediates\pre-dexed\debug\spring-android-core-1.0.1.RELEASE-efce04117f1a2fc05ef9eba72d030e4a579d03de.jar" />
     </item>
     <item
-        jar="C:\Users\Administrator\Documents\GitHub\hello-gimbal-android-master\app\libs\gimbal-dev-logging.jar"
+        jar="C:\Users\Administrator\Documents\GitHub\BeaconSightingBasic\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="44cd8bfb75e931f3a58b15f9ae51603a33fc116c">
-        <dex dex="C:\Users\Administrator\Documents\GitHub\hello-gimbal-android-master\app\build\intermediates\pre-dexed\debug\gimbal-dev-logging-b7cdeb64488a206f21a540045233f1d48e83d68d.jar" />
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Administrator\Documents\GitHub\BeaconSightingBasic\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-22482b455645157ed0a0ce36e29188eff0efe5f7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Documents\GitHub\BeaconSightingBasic\app\libs\spring-android-rest-template-1.0.1.RELEASE.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e132d929bd181941f79b0d63edafb8a86ae6fd33">
+        <dex dex="C:\Users\Administrator\Documents\GitHub\BeaconSightingBasic\app\build\intermediates\pre-dexed\debug\spring-android-rest-template-1.0.1.RELEASE-257fcf3f74e59b748929ffb715bda643d51ef3a4.jar" />
     </item>
     <item
         jar="C:\Users\Administrator\Documents\GitHub\hello-gimbal-android-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
@@ -37,11 +44,53 @@
         <dex dex="C:\Users\Administrator\Documents\GitHub\hello-gimbal-android-master\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-fa4a627c809c953f34e2c486a47e0853ab7c2bca.jar" />
     </item>
     <item
+        jar="C:\Users\Administrator\Documents\GitHub\BeaconSightingBasic\app\libs\gimbal.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d7ac4b59b017b30334e363675e38a64c0cbbbef6">
+        <dex dex="C:\Users\Administrator\Documents\GitHub\BeaconSightingBasic\app\build\intermediates\pre-dexed\debug\gimbal-3d90800d11c4b114c8799b7759d7b085a015faea.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Documents\GitHub\BeaconSightingBasic\app\libs\spring-android-core-1.0.1.RELEASE.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e68f0e8e4b636ee30c4de58953be38d9b72a5e3b">
+        <dex dex="C:\Users\Administrator\Documents\GitHub\BeaconSightingBasic\app\build\intermediates\pre-dexed\debug\spring-android-core-1.0.1.RELEASE-76d85bd75b4bd958a474508f7e9483743860bb8e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Documents\GitHub\hello-gimbal-android-master\app\libs\gimbal.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d7ac4b59b017b30334e363675e38a64c0cbbbef6">
+        <dex dex="C:\Users\Administrator\Documents\GitHub\hello-gimbal-android-master\app\build\intermediates\pre-dexed\debug\gimbal-0446b76869bfef3d533c07e0273bb4ed231678f0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Documents\GitHub\BeaconSightingBasic\app\libs\gimbal-dev-logging.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44cd8bfb75e931f3a58b15f9ae51603a33fc116c">
+        <dex dex="C:\Users\Administrator\Documents\GitHub\BeaconSightingBasic\app\build\intermediates\pre-dexed\debug\gimbal-dev-logging-b6f7ad3d4eb726c84818796d49c5c2fcca7aa5cc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Documents\GitHub\hello-gimbal-android-master\app\libs\gimbal-dev-logging.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44cd8bfb75e931f3a58b15f9ae51603a33fc116c">
+        <dex dex="C:\Users\Administrator\Documents\GitHub\hello-gimbal-android-master\app\build\intermediates\pre-dexed\debug\gimbal-dev-logging-b7cdeb64488a206f21a540045233f1d48e83d68d.jar" />
+    </item>
+    <item
         jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
         <dex dex="C:\Users\Administrator\Documents\GitHub\hello-gimbal-android-master\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-b02d5f0bbb77641e1684f83d7fa0b9acc540cbd4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Documents\GitHub\BeaconSightingBasic\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\Administrator\Documents\GitHub\BeaconSightingBasic\app\build\intermediates\pre-dexed\debug\classes-23ed92a4425a7c06547f031f8e896b8643b6f634.jar" />
     </item>
     <item
         jar="C:\Users\Administrator\Documents\GitHub\hello-gimbal-android-master\app\libs\spring-android-rest-template-1.0.1.RELEASE.jar"
